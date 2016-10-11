@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overtime app
 
-Things you may want to cover:
+# Overtime App
 
-* Ruby version
+## Key requirement: company needs documentation that salaried employees did or did not get overtime each week
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+UI: 
+- Bootstrap -> formatting
